@@ -59,9 +59,9 @@ Lista de artistas ordenada alfabeticamente
 
 # 🔍 Favoritos hasta ahora
 
-- ** Brand New Eyes** - Paramore (2009)
-- ** Ugly Is Beautiful** - Oliver Tree (2020)
-- ** The Fame** - Lady GAga (2008)
+- **Brand New Eyes** - Paramore (2009)
+- **Ugly Is Beautiful** - Oliver Tree (2020)
+- **The Fame** - Lady GAga (2008)
 
 # 🌄 Recien comprados
 
