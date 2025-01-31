@@ -65,6 +65,7 @@ Lista de artistas ordenada alfabeticamente
 
 # 🌄 Recien comprados
 
+-  **Fallen** - Evanescense (2003)
 -  **Around The Fur** - Deftones (1997)
 -  **Riot!** - Paramore (2007)
 -  **Brand New Eyes** - Paramore (2009)
