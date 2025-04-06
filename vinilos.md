@@ -61,7 +61,7 @@ Lista de artistas ordenada alfabeticamente
 
 - **Brand New Eyes** - Paramore (2009)
 - **Ugly Is Beautiful** - Oliver Tree (2020)
-- **The Fame** - Lady GAga (2008)
+- **The Fame** - Lady Gaga (2008)
 
 # 🌄 Recien comprados
 
