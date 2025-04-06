@@ -51,11 +51,11 @@ Lista de artistas ordenada alfabeticamente
 | 27  | Secret Policeman's Ball   | Secret Policeman's Ball              | Comedia/Protesta               | 1979   |
 | 28  | Slipknot                  | Iowa                                 | Nu Metal                       | 2001   |
 | 29  | Steve Lacy                | Gemini                               | RnB, Hip-Hop, Soul             | 2022   |
-| 30  | The Cars                  | Panorama                             | Rock N Roll                    | 1980   |
-| 31  | The Killers               | Hot Fuss                             | Rock Alternativo               | 2004   |
-| 32  | Travis Scott              | Astroworld                           | Hip-Hop/Rap                    | 2018   |
-| 33  | XXXTENTACION              | 17                                   | Hip-Hop/Emocional              | 2017   |
-
+| 30  | System of a Down          | Toxicity                             | Nu Metal/Alternativo           | 2001   |
+| 31  | The Cars                  | Panorama                             | Rock N Roll                    | 1980   |
+| 32  | The Killers               | Hot Fuss                             | Rock Alternativo               | 2004   |
+| 33  | Travis Scott              | Astroworld                           | Hip-Hop/Rap                    | 2018   |
+| 34  | XXXTENTACION              | 17                                   | Hip-Hop/Emocional              | 2017   |
 
 # 🔍 Favoritos hasta ahora
 
@@ -69,14 +69,15 @@ Lista de artistas ordenada alfabeticamente
 -  **Around The Fur** - Deftones (1997)
 -  **Riot!** - Paramore (2007)
 -  **Brand New Eyes** - Paramore (2009)
+-  **Toxicity** - System Of A Down
 
 # 📢 Wishlist 
 
 -  **System Of A Down** - System Of A Down
--  **Toxicity** - System Of A Down
 -  **Hypnotize** - System Of A Down
 -  **Mesmerize** - System Of A Down
 -  **AM** - Artic Monkeys
 -  **Unorthodox Jukebox** - Bruno Mars
 -  **Come over When you are Sober** - Lil Peep
-
+-  **GNX** - Kendrick Lamar
+-  **Funeral Soundtrack #4** - Destroy Boys
