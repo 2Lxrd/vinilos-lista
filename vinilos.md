@@ -1,6 +1,3 @@
-¡Perfecto! Aquí tienes el mensaje completo actualizado con **"Flower Boy"** de **Tyler, the Creator**, incluido también en la sección de **“Recien comprados”**:
-
----
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⢀⣀⣀⣀⡀⠀⠀⢀⣀⣠⣤⣀⣀⡀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀   ⣀⣀⣀⣀⣀⣠⣤⣤⣄⣀⠀⠀⠀⠀⣀⣠⣄⣀⡀⠀⢀⣀⣠⣀⣀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡿⠛⢿⣷⣴⣿⠿⠿⠿⠿⠿⡿⠿⡿⠿⠿⠿⠿⢿⣿⠿⣿⣦⡀⠀⠀⠀⣠⣾⡿⠿⠿⠿⠿⠿⠿⢯⡈⠻⠿⣿⣷⣾⡿⠿⠿⠿⠿⠿⠿⣿⡙⠻⠿⣿
