@@ -91,5 +91,3 @@ Lista de artistas ordenada alfabéticamente
 - **Funeral Soundtrack #4** - Destroy Boys  
 
 ---
-
-¿Quieres agregarlo también a “Favoritos” o de momento no?
