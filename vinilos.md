@@ -1,3 +1,7 @@
+¡Perfecto! Aquí tienes el mensaje completo actualizado con **"Flower Boy"** de **Tyler, the Creator**, incluido también en la sección de **“Recien comprados”**:
+
+---
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⢀⣀⣀⣀⡀⠀⠀⢀⣀⣠⣤⣀⣀⡀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀   ⣀⣀⣀⣀⣀⣠⣤⣤⣄⣀⠀⠀⠀⠀⣀⣠⣄⣀⡀⠀⢀⣀⣠⣀⣀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡿⠛⢿⣷⣴⣿⠿⠿⠿⠿⠿⡿⠿⡿⠿⠿⠿⠿⢿⣿⠿⣿⣦⡀⠀⠀⠀⣠⣾⡿⠿⠿⠿⠿⠿⠿⢯⡈⠻⠿⣿⣷⣾⡿⠿⠿⠿⠿⠿⠿⣿⡙⠻⠿⣿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⡿⠋⠀⠀⠀⠉⠻⢿⣷⣴⣆⠀⠀⠀⠈⠀⣀⣤⣶⡀⡀⠈⠀⠈⠙⣷⡀⠀⣼⡿⠉⠉⠐⢲⡠⡀⠀⠀⠀⠈⠐⠀⠀⠈⠙⢿⣷⣴⣀⠀⠀⠀⠀⠈⠀⠀⠀⠉⠻⢿⣷⣄⠀
@@ -15,10 +19,9 @@
 
 ---
 
-
 # 🌐 En posesión
 
-Lista de artistas ordenada alfabeticamente
+Lista de artistas ordenada alfabéticamente
 
 | Nº  | 💬 Artista                | 🎵 Álbum                            | 🌟 Género                     | 🌐 Año |
 |-----|---------------------------|--------------------------------------|--------------------------------|--------|
@@ -55,29 +58,41 @@ Lista de artistas ordenada alfabeticamente
 | 31  | The Cars                  | Panorama                             | Rock N Roll                    | 1980   |
 | 32  | The Killers               | Hot Fuss                             | Rock Alternativo               | 2004   |
 | 33  | Travis Scott              | Astroworld                           | Hip-Hop/Rap                    | 2018   |
-| 34  | XXXTENTACION              | 17                                   | Hip-Hop/Emocional              | 2017   |
+| 34  | Tyler, the Creator        | Flower Boy                           | Hip-Hop/Neo-Soul/Alternativo   | 2017   |
+| 35  | XXXTENTACION              | 17                                   | Hip-Hop/Emocional              | 2017   |
+
+---
 
 # 🔍 Favoritos hasta ahora
 
-- **Brand New Eyes** - Paramore (2009)
-- **Ugly Is Beautiful** - Oliver Tree (2020)
+- **Brand New Eyes** - Paramore (2009)  
+- **Ugly Is Beautiful** - Oliver Tree (2020)  
 - **The Fame** - Lady Gaga (2008)
+
+---
 
 # 🌄 Recien comprados
 
--  **Fallen** - Evanescense (2003)
--  **Around The Fur** - Deftones (1997)
--  **Riot!** - Paramore (2007)
--  **Brand New Eyes** - Paramore (2009)
--  **Toxicity** - System Of A Down
+- **Fallen** - Evanescense (2003)  
+- **Around The Fur** - Deftones (1997)  
+- **Riot!** - Paramore (2007)  
+- **Brand New Eyes** - Paramore (2009)  
+- **Toxicity** - System Of A Down  
+- **Flower Boy** - Tyler, the Creator (2017)
 
-# 📢 Wishlist 
+---
 
--  **System Of A Down** - System Of A Down
--  **Hypnotize** - System Of A Down
--  **Mesmerize** - System Of A Down
--  **AM** - Artic Monkeys
--  **Unorthodox Jukebox** - Bruno Mars
--  **Come over When you are Sober** - Lil Peep
--  **GNX** - Kendrick Lamar
--  **Funeral Soundtrack #4** - Destroy Boys
+# 📢 Wishlist
+
+- **System Of A Down** - System Of A Down  
+- **Hypnotize** - System Of A Down  
+- **Mesmerize** - System Of A Down  
+- **AM** - Artic Monkeys  
+- **Unorthodox Jukebox** - Bruno Mars  
+- **Come over When you are Sober** - Lil Peep  
+- **GNX** - Kendrick Lamar  
+- **Funeral Soundtrack #4** - Destroy Boys  
+
+---
+
+¿Quieres agregarlo también a “Favoritos” o de momento no?
