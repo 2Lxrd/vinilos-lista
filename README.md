@@ -70,12 +70,7 @@ Lista de artistas ordenada alfabéticamente
 
 # 🌄 Recien comprados
 
-- **Fallen** - Evanescense (2003)  
-- **Around The Fur** - Deftones (1997)  
-- **Riot!** - Paramore (2007)  
-- **Brand New Eyes** - Paramore (2009)  
-- **Toxicity** - System Of A Down  
-- **Flower Boy** - Tyler, the Creator (2017)
+- **Three cheers for sweet revenge** - My Chemical Romance (2003)  
 
 ---
 
